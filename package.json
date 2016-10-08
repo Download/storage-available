@@ -1,0 +1,24 @@
+{
+  "name": "storage-available",
+  "version": "1.0.0",
+  "description": "Detect if web storage is available and functional",
+  "main": "storage-available.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/download/storage-available.git"
+  },
+  "keywords": [
+    "localStorage",
+    "sessionStorage",
+    "feature-detect"
+  ],
+  "author": "Stijn de Witt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/download/storage-available/issues"
+  },
+  "homepage": "https://github.com/download/storage-available#readme"
+}
