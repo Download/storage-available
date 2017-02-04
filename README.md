@@ -1,6 +1,8 @@
 # storage-available
 #### Detect if web storage is available and functional
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/storage-available.svg)](https://greenkeeper.io/)
+
 [![npm](https://img.shields.io/npm/v/storage-available.svg)](https://npmjs.com/package/storage-available)
 [![license](https://img.shields.io/npm/l/storage-available.svg)](https://opensource.org/licenses/MIT)
 
