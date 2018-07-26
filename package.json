@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Detect if web storage is available and functional",
   "main": "storage-available.js",
+  "typings": "typings.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
