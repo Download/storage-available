@@ -46,12 +46,14 @@ You can test for sessionStorage instead by calling `storageAvailable('sessionSto
 ## Credits
 Credits to [Paul Irish](https://gist.github.com/paulirish) for hist gist summarizing the development of feature detecting localStorage, and to all people who contributed fixes to it in that process.
 
+Credits to [Lucius Gaitán](https://github.com/lgaitan) for his [PR](https://github.com/download/storage-available/pull/2) which adds Typescript support!
+
 ## Issues
 Add an issue in this project's [issue tracker](https://github.com/download/storage-available/issues)
 to let me know of any problems you find, or questions you may have.
 
 ## Copyright
-Copyright 2016 by [Stijn de Witt](http://StijnDeWitt.com). Some rights reserved.
+Copyright 2016, 2018 by [Stijn de Witt](http://StijnDeWitt.com) and [Lucius Gaitán](https://luciusgaitan.com/). Some rights reserved.
 
 ## License
 Licensed under the [MIT](https://opensource.org/licenses/MIT) Open Source license.
